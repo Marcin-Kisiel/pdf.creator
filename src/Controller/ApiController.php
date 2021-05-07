@@ -1,5 +1,6 @@
 <?php
 
+namespace App\Controller;
 
 use Knp\Snappy\Pdf;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
